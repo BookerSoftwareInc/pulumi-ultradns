@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-ultradns/sdk
+module github.com/BookerSoftwareInc/pulumi-ultradns/sdk
 
 go 1.18
 

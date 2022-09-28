@@ -370,7 +370,7 @@ builds:
   - linux
   ignore: []
   ldflags:
-  - -X github.com/pulumi/pulumi-ultradns/provider/pkg/version.Version={{.Tag}}
+  - -X github.com/BookerSoftwareInc/pulumi-ultradns/provider/pkg/version.Version={{.Tag}}
   main: ./cmd/pulumi-resource-ultradns/
   sort: asc
   use: git
