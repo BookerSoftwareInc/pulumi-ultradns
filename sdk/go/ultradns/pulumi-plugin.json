@@ -1,5 +1,0 @@
-{
-  "resource": true,
-  "name": "ultradns",
-  "server": "https://github.com/org/BookerSoftwareInc/pulumi-ultradns/releases/download/v${VERSION}"
-}
