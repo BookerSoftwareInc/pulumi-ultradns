@@ -1,5 +1,5 @@
 {
-    "name": "@mb-platform2/ultradns",
+    "name": "@BookerSoftwareInc/ultradns",
     "version": "${VERSION}",
     "description": "A Pulumi package for creating and managing ultradns cloud resources.",
     "keywords": [
