@@ -1,5 +1,5 @@
 import * as pulumi from "@pulumi/pulumi";
-import * as ultradns from "@BookerSoftwareInc/ultradns";
+import * as ultradns from "@mb-platform2/ultradns";
 
 const devRecord = new ultradns.Record(`dev-dnsRecord`, {
     ownerName: "dev.example.ninja",
