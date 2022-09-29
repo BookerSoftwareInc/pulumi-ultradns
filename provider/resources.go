@@ -100,7 +100,7 @@ func Provider() tfbridge.ProviderInfo {
 			"ultradns_zone": {Tok: tfbridge.MakeDataSource(mainPkg, mainMod, "getZone"),},
 		},
 		JavaScript: &tfbridge.JavaScriptInfo{
-			PackageName: "@BookerSoftwareInc/ultradns",
+			PackageName: "@mb-platform2/ultradns",
 			// List any npm dependencies and their versions
 			Dependencies: map[string]string{
 				"@pulumi/pulumi": "^3.0.0",
