@@ -20,7 +20,7 @@ const exampleRecord = new ultradns.Record('exampleCnameRecord`, {
 
 ## Installation & Configuration
 
-- JavaScript/TypeScript: `@pulumi/akamai`
+- JavaScript/TypeScript: `@pulumi/ultradns`
 
 ### Credentials
 
